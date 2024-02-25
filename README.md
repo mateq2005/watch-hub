@@ -1,4 +1,4 @@
-# WatchHub! 🍿🎬
+# WatchHub 🍿🎬
 
 ## Overview
 
